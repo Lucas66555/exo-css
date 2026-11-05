@@ -1,0 +1,43 @@
+* { box-sizing: border-box; }
+
+body {
+    background-color: rgb(180, 202, 204);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    font-size: 100px;
+    color: rgb(44, 42, 185);
+    font-size: 5rem;
+    border-bottom: 5px solid #24e2f0;
+    text-align:center
+}
+
+#intro {
+    font-style: italic;
+    color: rgb(17, 153, 62);
+    font-size: 30px;
+    padding: 16px;
+  border: 5px solid #0ab643;
+  margin: 24px;
+  border-radius: 8px;
+}
+
+.important {
+    font-size: 30px;
+    color: rgb(207, 36, 107);
+}
+
+.carte {
+    background-image: url('https://www.rcb-informatique.fr/wp-content/uploads/2024/04/CyberSecur.jpeg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    
+    background-color: #ffffff;
+    padding: 50px;
+    border: 5px solid #15b3b3;
+    margin: 16px 0;
+    border-radius: 12px;
+    max-width: 1000px;
+}
